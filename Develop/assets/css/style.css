@@ -71,7 +71,7 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 84%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -81,7 +81,7 @@ p {
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
+    width: 13%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
