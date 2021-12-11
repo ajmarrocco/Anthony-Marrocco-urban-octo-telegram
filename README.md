@@ -3,7 +3,7 @@ For this assignment, I made this website follow accessibility standards that it 
 
 I updated the name of the title to the name of the company "Horiseon"
 
-![title-change](assets/images/title-change.png)
+![title-change] (assets/images/title-change.png)
 
 I added header, nav, section, aside, and footer semantic elements in place of the div element so it is easier for the search engine and more accessible.
 
