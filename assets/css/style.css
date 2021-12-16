@@ -49,7 +49,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Element selector: Selects color and text-decoration for a */
+/* Element selector: Styles color and text-decoration for a */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -99,7 +99,7 @@ a {
     margin-right: 25px;
 }
 
-/* Element selector: Selects p font sizes */
+/* Element selector: Selects p font size */
 p {
     font-size: 16px;
 }
