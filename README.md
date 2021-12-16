@@ -33,7 +33,7 @@ I added alt attributes to the images in the content section with descriptions of
 
  I added alt="" to the decorative images in the benefits aside.
 
-![adding-alt-blank-to-img](assets\images\adding-alt-blank-to-img.jpg)
+![adding-alt-blank-to-img](assets/images/adding-alt-blank-to-img.jpg)
 
 I edited the order of the CSS selectors in the style.css file so that the selectors would be the sequence they appear in the index.html file
 
