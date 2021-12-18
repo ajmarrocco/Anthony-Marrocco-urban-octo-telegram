@@ -122,19 +122,19 @@ p {
     background-color: #2589bd;
 }
 
-/* Class selector: Styles margin-bottom and color of benefits-lead */
+/* Class selector: Styles margin-bottom and color of benefits-lead, benefit-brand, and benefit-cost */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* Class selector: Styles margin-bottom and centers text of h3 in benefits-lead */
+/* Class selector: Styles margin-bottom and centers text of h3 in benefits-lead, benefit-brand, and benefit-cost */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Class selector: Styles img in benefits-lead */
+/* Class selector: Styles img in benefits-lead, benefit-brand, and benefit-cost */
 .benefit-lead img, .benefit-brand img, .benefit-cost img{
     display: block;
     margin: 10px auto;
