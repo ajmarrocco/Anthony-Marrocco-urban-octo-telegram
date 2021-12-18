@@ -48,4 +48,4 @@ Below is the a screenshot of the final website
 Please see link to the website below:
 
 ## Website
-[Horiseon]https://ajmarrocco.github.io/Anthony-Marrocco-urban-octo-telegram/
+[Horiseon](https://ajmarrocco.github.io/Anthony-Marrocco-urban-octo-telegram)
